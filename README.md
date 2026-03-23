@@ -1,12 +1,29 @@
-# React + Vite
+<img src="./src/assets/capa-2.png" alt="capa do projeto">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## App pesquisa de filme
 
-Currently, two official plugins are available:
+Projeto de um carrosel simples treinando o uso do state no React, estando totalmente responsivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ⚙️ Acesar o projeto
 
-## Expanding the ESLint configuration
+[Endereço](https://react-kanban-com-typescript.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Tecnologias utilizadas
+
+- HTML
+
+- CSS
+
+- JAVASCRIPT
+
+- REACT
+
+- STYLED-COMPONENTS
+
+### 🙋🏻‍♂️ AUTOR
+
+João Vitor - Fullstack do projeto - [Github](https://github.com/JoaoVitor2004)
+
+### Licensa
+
+Este projeto foi feito com a licensa [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
