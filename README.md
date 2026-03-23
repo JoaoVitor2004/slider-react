@@ -1,6 +1,6 @@
 <img src="./src/assets/images/capa.png" alt="capa do projeto">
 
-## App pesquisa de filme
+## Carrosel - slider
 
 Projeto de um carrosel simples treinando o uso do state no React, estando totalmente responsivo
 
