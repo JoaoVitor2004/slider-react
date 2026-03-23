@@ -1,4 +1,4 @@
-<img src="./src/assets/capa-2.png" alt="capa do projeto">
+<img src="./src/assets/images/capa.png" alt="capa do projeto">
 
 ## App pesquisa de filme
 
@@ -6,7 +6,7 @@ Projeto de um carrosel simples treinando o uso do state no React, estando totalm
 
 ### ⚙️ Acesar o projeto
 
-[Endereço](https://react-kanban-com-typescript.vercel.app/)
+[Endereço](https://slider-react-iota.vercel.app/)
 
 ### 🛠️ Tecnologias utilizadas
 
